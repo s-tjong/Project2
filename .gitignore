@@ -2,3 +2,4 @@ data
 data_download.log
 download_ireland_clouds.py
 __pycache__
+.env
